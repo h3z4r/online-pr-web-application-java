@@ -1,26 +1,22 @@
 # Project Name
 
-TODO: Write a project description
+HTML Tutorial
 
-## Installation
+## People
 
-TODO: Describe the installation process
+Tim Berners-Lee
 
-## Usage
+## Organizations
 
-TODO: Write usage instructions
-
-## Contributing
-
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+CERN
 
 ## History
 
-TODO: Write history
+24.11.1995 - HTML 2.0 was published.
+14.01.1997 - HTML 3.2 was published.
+18.12.1997 - HTML 4.0 was published.
+24.12.1998 - HTML 4.01 was published.
+28.10.2014 - HTML 5.0 was published.
 
 ## Credits
 
